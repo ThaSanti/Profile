@@ -39,8 +39,6 @@ Tenho contato com:
 # Desempenho
 Um pouquinho do meu desempenho em repositórios públicos.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ThaSanti&theme=bear&background=000&border=8B0000&dates=FFF)](https://git.io/streak-stats)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThaSanti&theme=transparent&bg_color=000&border_color=8B0000&show_icons=true&icon_color=DB7093&title_color=F08080&text_color=FFF) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ThaSanti&bg_color=000&border_color=8B0000&title_color=F08080&text_color=FFF)
 
 
